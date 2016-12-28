@@ -10,5 +10,6 @@
 Hello Everyone!
     This is a git commit!
     I'll try to conflict here! koulaz
+    this is branch 2!!
 </body>
 </html>
