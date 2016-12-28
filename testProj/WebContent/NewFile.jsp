@@ -8,5 +8,6 @@
 </head>
 <body>
 Hello Everyone!
+    This is a git commit!
 </body>
 </html>
